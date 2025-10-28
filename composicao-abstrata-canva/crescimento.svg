@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20cm"
+   height="20cm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="crescimento.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.72426347"
+     inkscape:cx="251.28977"
+     inkscape:cy="475.65564"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid51"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="187.77697"
+       y="156.02057"
+       width="138.0713"
+       height="53.847808"
+       id="rect21" />
+    <rect
+       x="454.25458"
+       y="193.29982"
+       width="15.187843"
+       height="52.467095"
+       id="rect20" />
+    <rect
+       x="457.01601"
+       y="182.25412"
+       width="168.44699"
+       height="85.604207"
+       id="rect19" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text20"
+       style="fill:#f8e7fe;fill-opacity:1;white-space:pre;shape-inside:url(#rect20)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text21"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;shape-inside:url(#rect21);fill:#f8e7fe;fill-opacity:1" />
+    <circle
+       style="fill:#2b0000;fill-opacity:1;stroke:#2b0000;stroke-width:0.264583"
+       id="path47"
+       cx="14.429886"
+       cy="109.04613"
+       r="5"
+       inkscape:transform-center-x="1.095941"
+       inkscape:transform-center-y="3.6531365" />
+    <circle
+       style="fill:#2b0000;fill-opacity:1;stroke:#2b0000;stroke-width:0.264583"
+       id="path48"
+       cx="35.070118"
+       cy="105.21034"
+       r="10"
+       inkscape:transform-center-x="1.095941"
+       inkscape:transform-center-y="3.2878229" />
+    <circle
+       style="fill:#2b0000;fill-opacity:1;stroke:#2b0000;stroke-width:0.264583"
+       id="path49"
+       cx="69.77491"
+       cy="95.1642"
+       r="20" />
+    <circle
+       style="fill:#2b0000;fill-opacity:1;stroke:#2b0000;stroke-width:0.264583"
+       id="path50"
+       cx="134.98338"
+       cy="75.254616"
+       r="40" />
+  </g>
+</svg>
